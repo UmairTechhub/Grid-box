@@ -1,0 +1,29 @@
+*{
+    box-sizing: border-box;
+}
+.row{
+    display: flex;
+    background-color: rgb(236, 243, 249);
+    
+    
+}
+.coloum
+{
+width: 25%;
+min-width: 25%;
+max-width: 100%;
+
+
+}
+.col{
+    width: 25%;
+    padding: 10px;
+    
+}
+.padding{
+    padding: 1rem;
+}
+.p1{
+    border: 1px solid black;
+    padding: 10px;
+}
